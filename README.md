@@ -78,6 +78,15 @@ Estudio de vectores de infección inicial mediante archivos `.bat` generados din
 
 ---
 
+## ⚖️ V. Fundamentos de Ciberseguridad y Cumplimiento
+Gobernanza y gestión de riesgos alineada con estándares internacionales (ISC2).
+
+*   **Gestión de Incidentes:** Protocolos de respuesta y mitigación de amenazas.
+*   **Seguridad de Operaciones:** Aplicación de políticas de acceso y control de datos.
+*   **Ética Profesional:** Cumplimiento del código de ética de ISC2 en actividades de Pentesting.
+
+---
+
 ## 🎓 Certificaciones
 *   **CRT-ID**: Certified Red Team Infra Dev - *CyberWarFare Labs* (2025)
 
