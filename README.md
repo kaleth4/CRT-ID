@@ -87,8 +87,10 @@ Gobernanza y gestión de riesgos alineada con estándares internacionales (ISC2)
 
 ---
 
-## 🎓 Certificaciones
-*   **CRT-ID**: Certified Red Team Infra Dev - *CyberWarFare Labs* (2025)
+## 🎓 Certificaciones Profesionales
+*   **CRT-ID**: Certified Red Team Infra Dev - *CyberWarFare Labs*
+*   **API Penetration Testing**: *APISec University*
+*   **Certified in Cybersecurity (CC)**: *ISC2* (Capacitación Oficial Completa)
 
 ---
 > [!NOTE]  
