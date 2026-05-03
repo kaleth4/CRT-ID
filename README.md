@@ -49,6 +49,27 @@ def get_location(token):
     for key, value in details.all.items():
         print(f"{key}: {value}")
 ```
+## 🌐 IV. API Penetration Testing (OWASP API Top 10)
+Enfoque en la seguridad de servicios web y microservicios.
+
+### 🛠️ Herramientas Utilizadas
+*   **Postman/Insomnia:** Para pruebas de endpoints y automatización de peticiones.
+*   **Burp Suite:** Intercepción y manipulación de tráfico API.
+*   **ffuf/Gobuster:** Fuzzing de rutas y parámetros ocultos.
+
+### 🛡️ Pruebas de Autorización (BOLA/IDOR)
+Ejemplo de testeo de vulnerabilidad de Broken Object Level Authorization:
+```bash
+# Intento de acceso a un recurso de otro usuario cambiando el ID en la URL
+GET /api/v1/user/1005/profile  # Original
+GET /api/v1/user/1006/profile  # Intento de IDOR
+```
+
+---
+
+## 🎓 Certificaciones Actualizadas
+*   **CRT-ID**: Certified Red Team Infra Dev - *CyberWarFare Labs*
+*   **API Penetration Testing**: *APISec University* (2025)
 
 ---
 
